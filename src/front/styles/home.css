@@ -17,6 +17,16 @@ body{
     margin-top: 10px;
     width: 500px;
 }
+.logo-luke{
+    max-height: 500px;
+    margin-top: 10px;
+    width: 500px;
+}
+.card-css{
+    width: fit-content;
+    align-items: center;
+    margin-left: 700px;
+}
 .text-center{
     color: white;
 }
